@@ -15,7 +15,7 @@ Welcome to the Express News App, the lightning-fast news platform built with the
 To get started with the Express News App, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/express-news-app.git
+git clone https://github.com/adityai0/news-app.git
 cd express-news-app
 npm install
 ```
